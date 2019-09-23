@@ -1,0 +1,27 @@
+h1{
+    color: grey;
+    font-family: Italic;
+    font-weight:bold;
+}
+
+header{
+    background-color: blue;
+}
+
+p.1 {
+    border-style: solid;
+}
+
+main {
+    background-color: green;
+    width: 100%;
+}
+
+p.2 {
+    border-style: solid;
+}
+
+footer{
+    background-color: blue;
+    width: 100%;
+}
