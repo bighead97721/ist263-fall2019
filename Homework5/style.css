@@ -1,5 +1,4 @@
 @charset "utf-8";
-/*base*/
 ul,ol,li{list-style:none; padding:0;}
 body{
     color:#333; 
@@ -22,7 +21,6 @@ a:hover{background-color:transparent; color:#333;}
 .mt80{margin-top:80px;}
 .mt40{margin-top:40px;}
 
-/*header*/
 header{
     width: 100%;
     background-color:#808080;
@@ -72,11 +70,11 @@ h3.title{
     margin-bottom:40px;
 }
 
-
 .banner{
  width:100%;
  position:relative;
 }        
+
 .banner img{
     display:block;
     width:100%;
@@ -98,41 +96,44 @@ h3.title{
     width:100%; 
     overflow:hidden;
 }
+
 .one article img{
     display:block; 
     max-height:246px; 
     width:auto; 
     margin:auto;
 }
+
 .one article p{
     font-size:20px; 
     text-align:center; 
     color:#5a5a5a; 
-    margin-top:10px;}
+    margin-top:10px;
+}
 
-.two article{
+ .two article{
     width:100%; 
     overflow:hidden; 
     margin-bottom:40px;
 }
+
 .two article img{
     display:block; 
     max-height:320px; 
     width:auto; 
     margin:auto;
 }
+
 .two article .p01{
     font-size:20px; 
     margin-top:10px;
 }
+
 .two article .p02{
     font-size:16px; 
     color:#5a5a5a;
 }
 
-
-
-/*footer*/
 footer{
     width:100%; 
     background-color:#000; 
