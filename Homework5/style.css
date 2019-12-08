@@ -148,40 +148,6 @@ footer p{
     font-size:16px;
 }
 
-@media (max-width:890px){
-    header nav{
-        width:96%;
-    }
-    header nav .nav-links{
-        width:70%;
-    }
-}
-
-@media (max-width:680px){
-    header nav .logo{
-        float:none;
-        margin:auto;
-        width:120px;
-    }
-    header nav .nav-links{
-        float:none;
-        width:100%;
-    }
-    header nav .nav-links li{
-        flex:none;
-        height:60px;
-    }
-    header nav .nav-links li a{
-        font-size:14px;
-        height:60px; 
-        line-height:60px;
-    }
-    
-}
-@media (max-width:550px){
-    h3.title{font-size:24px;}
-}
-
 
 
 
