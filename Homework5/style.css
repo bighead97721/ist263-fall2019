@@ -147,6 +147,7 @@ footer p{
     font-size:16px;
 }
 
+
 @media (max-width:890px){
     header nav{
         width:96%;
@@ -180,4 +181,25 @@ footer p{
 @media (max-width:550px){
     h3.title{font-size:24px;}
 }
-        
+
+
+@media (max-width:680px){
+    .banner .words{
+        top:80px;
+    }
+    .banner .words h1{
+        font-size:30px;
+    }
+}
+
+@media (max-width:450px){
+    .banner .words{
+        top:30px;
+    }
+    .banner .words h1{
+        font-size:26px;
+    }
+}
+
+
+         
